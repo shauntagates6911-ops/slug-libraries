@@ -1,6 +1,7 @@
 # slug-libraries 
 
 PenguinMod-ObjectLibraries for [PenguinMod](https://penguinmod.com) modified for use in slug-libraries for [Slug IDE](https://slug-ide.vercel.app)
+
 The repo containing all new Public Domain costumes, sounds and others in PenguinMod's libraries.
 
 If you are looking to contribute your own content to the PenguinMod or Slug IDE libraries, please see [CONTRIBUTING.md](/CONTRIBUTING.md) for info.
